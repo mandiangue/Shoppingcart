@@ -14,8 +14,11 @@
                 const totalItem = document.querySelector('.total-item')
                 const checkoutBtn = document.querySelector('.checkout')
                 const searchInput= document.querySelector('.search-input')
+                const annee= document.querySelector('.year')
 
 
+// create dynamic year on footer
+annee.innerHTML= new Date().getFullYear()
 //search form
 searchInput.addEventListener('keypress',()=>{
     alert('For search i let your imagination do the remaining staff')
