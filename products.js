@@ -8,7 +8,7 @@ export const products=[
     { id: 3, name: 'nasse robuste', desc: 'nasse', price: 1520, instock: 5, img: 'images/nas2.jpg' },
     { id: 4, name: 'pc portable', desc: 'wifi', price: 850, instock: 5, img: 'images/pc1.jpg' },
     { id: 5, name: 'pc portable', desc: 'wifi', price: 1520, instock: 5, img: 'images/pc2.jpg' },
-    { id: 6, name: 'pc bureau gammer', desc: 'pc bureau gammer', price: 920, instock: 3, img: '/images/pc3.jpg' },
+    { id: 6, name: 'pc bureau gammer', desc: 'pc bureau gammer', price: 920, instock: 3, img: 'images/pc3.jpg' },
     { id: 7, name: 'pc bureau', desc: 'pc bureau', price: 720, instock: 0, img: 'images/pc4.jpg' },
     { id: 8, name: 'souris gamer', desc: 'souris gammer', price: 520, instock: 5, img: 'images/souris1.jpg' },
     { id: 9, name: 'souris laser', desc: 'souris laser', price: 120, instock: 5, img: 'images/souris2.jpg' },
