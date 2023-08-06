@@ -14,7 +14,7 @@
                 const totalItem = document.querySelector('.total-item')
                 const checkoutBtn = document.querySelector('.checkout')
                 const searchInput= document.querySelector('.search-input')
-                const annee= document.querySelector('.year')
+                let annee= document.querySelector('.year')
 
 
 // create dynamic year on footer
