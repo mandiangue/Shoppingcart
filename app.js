@@ -153,8 +153,8 @@ searchInput.addEventListener('keypress',()=>{
 
                 displayCart()
                 //Open cart box
-                cartItems.style.transform = 'translateX(0.5rem)'
-                closeFooter.style.transform = 'translateX(0.5rem)'
+                cartItems.style.transform = 'translateX(0rem)'
+                closeFooter.style.transform = 'translateX(0rem)'
 
         }
 
@@ -172,8 +172,8 @@ searchInput.addEventListener('keypress',()=>{
 //-------------------------------------------------------------------------------------------------------------
 //event listener for closing All cart
             closeBtn.addEventListener('click', () => {
-            cartItems.style.transform = 'translateX(30rem)'
-            closeFooter.style.transform = 'translateX(30rem)'
+            cartItems.style.transform = 'translateX(40rem)'
+            closeFooter.style.transform = 'translateX(40rem)'
 })
 //-------------------------------------------------------------------------------------------------------------
 
